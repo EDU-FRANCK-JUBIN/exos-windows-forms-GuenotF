@@ -1,0 +1,16 @@
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form2.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form3.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form4.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form5.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form6.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form7.resources
+C:\Users\Faba Binch\source\repos\WindowsForms\HelloWorld\obj\Debug\HelloWorld.Form8.resources
